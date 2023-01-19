@@ -1,8 +1,9 @@
+![logo](https://github.com/N1cK-OP/N1ck-OP/blob/main/nick.jpg) 
 <h1 align="center">Hi 👋, I'm NICK OP</h1>
 
 <h3 align="center">A passionate frontend developer from India,Kerala</h3>
 
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/NUT8CUdxijQF1g5U6">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/900816868422594570/1065720954090696834/anime-gif-4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n1ck-op&label=Profile%20views&color=0e75b6&style=flat" alt="n1ck-op" /> </p>
 
