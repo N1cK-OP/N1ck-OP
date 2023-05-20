@@ -34,7 +34,6 @@ Hey, I'm Nick, a Web Developer 🚀, Back End Developer & Discord Bot Developer.
 
 
 **Stats:**  
-
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DeltaCoderr&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=deltacoderr&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaCoderr&theme=tokyonight&hide=batchfile">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n1ck-op&show_icons=true&locale=en" alt="n1ck-op" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1ck-op&" alt="n1ck-op" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n1ck-op&show_icons=true&locale=en&layout=compact" alt="n1ck-op" /></p>
