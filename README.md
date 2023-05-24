@@ -2,7 +2,7 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-3/740170208232079401.png)
 
-Hey, I'm Nick, a Web Developer 🚀, Back End Developer & Discord Bot Developer.
+Hey, I'm Nick, a FiveM, RageMP, Web Developer 🚀, Back End Developer & Discord Bot Developer.
 
  **Profile views**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n1ck-op&label=Profile%20views&color=0e75b6&style=flat" alt="n1ck-op" /> </p>
@@ -10,7 +10,7 @@ Hey, I'm Nick, a Web Developer 🚀, Back End Developer & Discord Bot Developer.
  **Information:**
 
 - 🔭 I’m currently working on  **Open Source Projects and Discord Bots.**
-- 🌱 I’m currently learning  **React.JS and C++.**
+- 🌱 I’m currently learning  **React.JS, Lua, Js and C++.**
 - 💬 Ask me about  Anything related to **FIVEM & RageMP.**
 - 📫 Contact me at :  **DISCORD Nick OP#6063**
 - 😄 Pronouns :  **He/Him.**
