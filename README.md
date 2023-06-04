@@ -4,6 +4,7 @@ Hey, I'm Nick, a FiveM, RageMP, Web Developer 🚀, Back End Developer & Discord
 
  **Profile views**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n1ck-op&label=Profile%20views&color=0e75b6&style=flat" alt="n1ck-op" /> </p>
+
 ![Discord](https://discord.c99.nl/widget/theme-3/740170208232079401.png)
 
  **Information:**
