@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm NICK OP</h1>
 
-![Discord](https://discord.c99.nl/widget/theme-3/740170208232079401.png)
-
 Hey, I'm Nick, a FiveM, RageMP, Web Developer 🚀, Back End Developer & Discord Bot Developer.
 
  **Profile views**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n1ck-op&label=Profile%20views&color=0e75b6&style=flat" alt="n1ck-op" /> </p>
+![Discord](https://discord.c99.nl/widget/theme-3/740170208232079401.png)
 
  **Information:**
 
