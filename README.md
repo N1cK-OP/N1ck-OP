@@ -24,5 +24,5 @@ Hey, I'm Nick, a FiveM, RageMP, Web Developer 🚀, Back End Developer & Discord
         <img alt="MySQL" src="https://img.shields.io/badge/-Mysql-black?style=for-the-badge&logo=Mysql&logoColor=7289DA"></a>
 </div>
 
-![profile-3d](./profile-night-view.svg)
+![profile-3d](./profile-3d-contrib/profile-night-view.svg)
 
