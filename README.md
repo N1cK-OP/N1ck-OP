@@ -1,6 +1,9 @@
 <div align = "center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+NICK+O" />
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&pause=1000&color=1BF700&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nick+OP"" />
 </div>
+
+
+
 
 <div align = "center">
 Hey, I'm Nick, a FiveM, RageMP, Web Developer 🚀, Back End Developer & Discord Bot Developer.
