@@ -1,10 +1,21 @@
 <div align = "center">
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=00C0F7&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nick+OP" />
 </div>
-</em></p>
+
+
+
 <div align = "left">
 Greetings! I am Nick, a dedicated software engineering student on a journey to explore the vast realms of technology. As a burgeoning software engineer, my focus lies in the intricate world of Discord bot development,FiveM, RageMP, and web development, where I bring virtual entities to life with functionality and flair. It's worth mentioning that I take pride in my achievements. I created a GTA5 FiveM server called Thrilokam Roleplay, and it was nice work done by me and my friends. We also created another GTA5 roleplay server based on RAGE MP called Signature (SOUTH INDIA FIRST SERVER), as I hold the distinction of developing a verified Discord bot, a testament to the quality and reliability of my creations.
 </div>
+
+
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/740170208232079401)
+
+
+
+
+
 
 ![Discord](https://discord.c99.nl/widget/theme-3/740170208232079401.png)
 
