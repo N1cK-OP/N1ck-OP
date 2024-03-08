@@ -2,10 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&pause=1000&color=1BF700&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nick+OP"" />
 </div>
 
-
-<div align = "center">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=00C0F7&repeat=false&random=false&width=435&lines=Greetings!+I+am+Nick%2C+a+dedicated+software+engineering+student+on+a+journey+to+explore+the+vast+realms+of+technology.+As+a+burgeoning+software+engineer%2C+my+focus+lies+in+the+intricate+world+of+Discord+bot+development%2CFiveM%2C+RageMP%2C+and+web+development%2C+where+I+bring+virtual+entities+to+life+with+functionality+and+flair.+It's+worth+mentioning+that+I+take+pride+in+my+achievements.+I+created+a+GTA5+FiveM+server+called+Thrilokam+Roleplay%2C+and+it+was+nice+work+done+by+me+and+my+friends.+We+also+created+another+GTA5+roleplay+server+based+on+RAGE+MP+called+Signature+(SOUTH+INDIA+FIRST+SERVER)%2C+as+I+hold+the+distinction+of+developing+a+verified+Discord+bot%2C+a+testament+to+the+quality+and+reliability+of+my+creations." />
-</div>
+Greetings! I am Nick, a dedicated software engineering student on a journey to explore the vast realms of technology. As a burgeoning software engineer, my focus lies in the intricate world of Discord bot development,FiveM, RageMP, and web development, where I bring virtual entities to life with functionality and flair. It's worth mentioning that I take pride in my achievements. I created a GTA5 FiveM server called Thrilokam Roleplay, and it was nice work done by me and my friends. We also created another GTA5 roleplay server based on RAGE MP called Signature (SOUTH INDIA FIRST SERVER), as I hold the distinction of developing a verified Discord bot, a testament to the quality and reliability of my creations.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n1ck-op&label=Profile%20views&color=0e75b6&style=flat" alt="n1ck-op" /> </p>
 
