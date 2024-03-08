@@ -9,15 +9,13 @@ Greetings! I am Nick, a dedicated software engineering student on a journey to e
 </div>
 
 
-
 </div>
 <h3 align="left">
-Reach Me On Discord
+Discord Status
 </p>
-<a target="_blank">
-	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/740170208232079401?bg=1f1f1f&borderRadius=5px&theme=:theme&showDisplayName=true">
+<a target="_blank"><img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/740170208232079401?bg=1f1f1f&borderRadius=5px&theme=:theme&showDisplayName=true">
 </p>
- <div>
+<div>
 
 
 
