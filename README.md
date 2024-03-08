@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm NICK OP</h1>
+<div align = "center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=435&repeat=false&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+Blacky!%22;%22Welcome+to+my+profile!%22" alt="Hi 👋, I'm NICK OP" />
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/N1cK-OP/count.svg?"  />
+</div>
 
 Hey, I'm Nick, a FiveM, RageMP, Web Developer 🚀, Back End Developer & Discord Bot Developer.
 
