@@ -10,30 +10,6 @@ Greetings! I am Nick, a dedicated software engineering student on a journey to e
 </p>
 </div>
 
-<h3 align="center">
-        
-![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
-![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
-![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
-![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
-![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
-![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
-
-  <a href="https://github.com/VishalCodez/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=VishalCodez">
-</a>
-<a href="https://github.com/N1cK-OP?tab=followers"><img src="https://img.shields.io/github/followers/N1cK-OP?label=Followers&style=social" alt="GitHub Badge"></a>
-  </h3>
-
-
-<div align="left">
-	
-  | _**Github Stats**_ | _**Top Languages**_ |
-  | ----------- | ------------- |
-  | <img src="https://github-readme-stats.vercel.app/api?username=N1cK-OP&show_icons=true&theme=dark"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1cK-OP&layout=compact&theme=dark"/> |
-
-
-</div>
 <br clear="both">
 
 <div align="center">
@@ -62,11 +38,36 @@ Greetings! I am Nick, a dedicated software engineering student on a journey to e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 
+<h3 align="center">
+        
+![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
+![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
+![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
+![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
+![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
+![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
+
+  <a href="https://github.com/VishalCodez/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=VishalCodez">
+</a>
+<a href="https://github.com/N1cK-OP?tab=followers"><img src="https://img.shields.io/github/followers/N1cK-OP?label=Followers&style=social" alt="GitHub Badge"></a>
+  </h3>
+
+
+<div align="left">
+	
+  | _**Github Stats**_ | _**Top Languages**_ |
+  | ----------- | ------------- |
+  | <img src="https://github-readme-stats.vercel.app/api?username=N1cK-OP&show_icons=true&theme=dark"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1cK-OP&layout=compact&theme=dark"/> |
+
+
+</div>
+
+
 
 <h3 align="left">
 
-  | _**Discord Status Status**_ |
-  | ----------- |
+ _**Discord Status Status**_ 
 
 </p>
 <a target="_blank"><img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/740170208232079401?bg=1f1f1f&borderRadius=5px&theme=:theme&showDisplayName=true">
